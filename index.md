@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a B.D. student at ...
+I am a fourth-year B.D. student at Nanjing University, supervised by Prof. <a href="https://yoyo000.github.io/" target="_blank" rel="noopener">Yao Yao</a>.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **3D Vision**
+- **Video generation**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Sep. 2025]** SpatialVID is released on arxiv.
 
 {% include_relative _includes/publications.md %}
 
