@@ -3,49 +3,36 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    {% endif %}
+    <img src="./assets/img/SpatialVID.png" class="teaser img-fluid z-depth-1" style="width:300px; height:100%;" />
+            <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+    <div class="title">
+      <a href="https://arxiv.org/abs/2509.09676.pdf" style="color: rgba(52, 99, 192, 0.92);">
+        SpatialVID: A Large-Scale Video Dataset with Spatial Annotations
+      </a>
+    </div>
+      Jiahao Wang*, **Yufeng Yuan***, Rujie Zheng*, Youtian Lin, Jian Gao, Lin-Zhuo Chen, Yajie Bao, Yi Zhang, Chang Zeng, Yanxi Zhou, Xiaoxiao Long, Hao Zhu, Zhaoxiang Zhang, Xun Cao, Yao Yao†
+
+      <div class="periodical"><em><strong>CVPR 2026 (* equal contribution)</strong></em>
       </div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
+       
+      <a href="https://arxiv.org/abs/2509.09676" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      
+      <a href="https://nju-3dv.github.io/projects/SpatialVID/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+       
+      <a href="https://github.com/NJU-3DV/spatialVID" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <img src="https://img.shields.io/github/stars/NJU-3DV/spatialVID?style=social">
     </div>
   </div>
 </div>
 </li>
-<br>
 
-{% endfor %}
+<br />
 
 </ol>
 </div>
