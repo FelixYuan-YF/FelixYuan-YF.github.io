@@ -17,4 +17,3 @@ I am a B.D. student at ...
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
