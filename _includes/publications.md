@@ -15,7 +15,7 @@
         SpatialVID: A Large-Scale Video Dataset with Spatial Annotations
       </a>
     </div>
-      Jiahao Wang*, **Yufeng Yuan***, Rujie Zheng*, Youtian Lin, Jian Gao, Lin-Zhuo Chen, Yajie Bao, Yi Zhang, Chang Zeng, Yanxi Zhou, Xiaoxiao Long, Hao Zhu, Zhaoxiang Zhang, Xun Cao, Yao Yao†
+      <a href='https://oiiiwjh.github.io/'>Jiahao Wang</a>*, Yufeng Yuan*, <a href='https://zrj-cn.github.io/'>Rujie Zheng*, <a href='https://linyou.github.io'>Youtian Lin</a>, <a href='https://ygaojiany.github.io'>Jian Gao</a>, <a href='https://linzhuo.xyz'>Lin-Zhuo Chen</a>, <a href='https://openreview.net/profile?id=~yajie_bao5'>Yajie Bao</a>, <a href='https://github.com/YeeZ93'>Yi Zhang</a>, <a href='https://github.com/ozchango'>Chang Zeng</a>, <a href='https://github.com/yxzhou217'>Yanxi Zhou</a>, <a href='https://www.xxlong.site/index.html'>Xiaoxiao Long</a>, <a href='http://zhuhao.cc/home/'>Hao Zhu</a><sup>1</sup>, <a href='http://zhaoxiangzhang.net/'>Zhaoxiang Zhang</a>, <a href='https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html'>Xun Cao</a>, <a href='https://yoyo000.github.io/'>Yao Yao</a>†
 
       <div class="periodical"><em><strong>CVPR 2026 (* equal contribution)</strong></em>
       </div>
