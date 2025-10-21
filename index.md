@@ -6,7 +6,7 @@ layout: homepage
 
 I am a fourth-year B.S. student at Nanjing University, supervised by Prof. <a href="https://yoyo000.github.io/" target="_blank" rel="noopener">Yao Yao</a>.
 
-{% include_relative _includes/education.md %}
+{% include_relative _includes/educations.md %}
 
 ## Research Interests
 
