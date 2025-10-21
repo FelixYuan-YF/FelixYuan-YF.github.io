@@ -7,9 +7,11 @@
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="school">
-        <a href="https://www.nju.edu.cn" style="color: rgba(52, 99, 192, 0.92);">Nanjing University</a>
+        <a href="https://www.nju.edu.cn">Nanjing University</a>
       </div>
-      <div class="department">School of Intelligence Science and Technology</div>
+      <div class="department">
+        <a href="https://is.nju.edu.cn">School of Intelligence Science and Technology</a>
+      </div>
       <div class="supervisors">
         Supervisors: <a href="https://yoyo000.github.io/">Prof. Yao Yao</a>
       </div>
@@ -23,9 +25,11 @@
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="school">
-        <a href="https://www.nju.edu.cn" style="color: rgba(52, 99, 192, 0.92);">Nanjing University</a>
+        <a href="https://www.nju.edu.cn">Nanjing University</a>
       </div>
-      <div class="department">School of Intelligence Science and Technology</div>
+      <div class="department">
+        <a href="https://is.nju.edu.cn">School of Intelligence Science and Technology</a>
+      </div>
       <div class="period">Bachelor, 2022 - 2026</div>
     </div>
   </div>
