@@ -20,7 +20,7 @@
             <a href="https://arxiv.org/abs/2509.09676" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
             <a href="https://nju-3dv.github.io/projects/SpatialVID/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
             <a href="https://github.com/NJU-3DV/spatialVID" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-            <img src="https://img.shields.io/github/stars/NJU-3DV/spatialVID?style=social" style="margin-top:2px; vertical-align:middle;" />
+            <img src="https://img.shields.io/github/stars/NJU-3DV/spatialVID?style=social" style="margin-top:1px; vertical-align:middle;" />
           </div>
         </div>
       </div>
