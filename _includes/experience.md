@@ -14,7 +14,7 @@
         <div class="period">2025.7 - 2025.8</div>
       </div>
     </div>
-    </br>
+    <br>
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
         <img src="../assets/img/tencent.png" class="teaser img-fluid z-depth-1" style="width:180px; height:100%;" alt="Huawei Logo" />
@@ -27,7 +27,7 @@
         <div class="period">2025.2 - 2025.5</div>
       </div>
     </div>
-    </br>
+    <br>
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
         <img src="../assets/img/bytedance.png" class="teaser img-fluid z-depth-1" style="width:180px; height:100%;" alt="Huawei Logo" />
