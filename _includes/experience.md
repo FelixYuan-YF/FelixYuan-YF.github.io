@@ -4,7 +4,7 @@
   <ol class="bibliography">
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-        <img src="../assets/img/huawei.png" class="teaser img-fluid z-depth-1" style="width:180px; height:100%;" alt="Huawei Logo" />
+        <img src="../assets/img/huawei.png" class="teaser img-fluid z-depth-1" style="width:240px; height:100%;" alt="Huawei Logo" />
       </div>
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="role"> AI Engineer (Intern) </div>
@@ -17,7 +17,7 @@
     <br>
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-        <img src="../assets/img/tencent.png" class="teaser img-fluid z-depth-1" style="width:180px; height:100%;" alt="Huawei Logo" />
+        <img src="../assets/img/tencent.png" class="teaser img-fluid z-depth-1" style="width:240px; height:100%;" alt="Huawei Logo" />
       </div>
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="role"> Remote Research Associate </div>
@@ -30,7 +30,7 @@
     <br>
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-        <img src="../assets/img/bytedance.png" class="teaser img-fluid z-depth-1" style="width:180px; height:100%;" alt="Huawei Logo" />
+        <img src="../assets/img/bytedance.png" class="teaser img-fluid z-depth-1" style="width:240px; height:100%;" alt="Huawei Logo" />
       </div>
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="role"> Data Anotator (Intern) </div>
