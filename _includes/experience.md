@@ -7,7 +7,7 @@
         <img src="../assets/img/antgroup.png" class="teaser img-fluid z-depth-1" style="width:240px; height:100%;" alt="Ant Group Logo" />
       </div>
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="role"> AI Engineer (Intern) </div>
+        <div class="role"> AI Researcher (Intern) </div>
         <div class="department">
           <a href="https://www.antgroup.com">Ant Group</a>
         </div>
