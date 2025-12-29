@@ -11,7 +11,7 @@
         <div class="department">
           <a href="https://www.antgroup.com">Ant Group</a>
         </div>
-        <div class="period">2025.12 - Present</div>
+        <div class="period">2026.1 - Present</div>
       </div>
     </div>
     <br>
