@@ -4,18 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year B.S. student at Nanjing University, supervised by Prof. <a href="https://yoyo000.github.io/" target="_blank" rel="noopener">Yao Yao</a>.
-
-{% include_relative _includes/education.md %}
+I am a fourth-year undergraduate student at Nanjing University, majoring in Intelligent Science and Technology. I am currently working under the supervision of Prof. <a href="https://yoyo000.github.io/" target="_blank" rel="noopener">Yao Yao</a>.
 
 ## Research Interests
 
 - **3D Vision**
-- **Video generation**
+- **Video Generation**
+- **World Models**
 
 ## News
 
 - **[Sep. 2025]** SpatialVID is released on arxiv.
+
+{% include_relative _includes/education.md %}
 
 {% include_relative _includes/publications.md %}
 
