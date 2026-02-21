@@ -14,7 +14,7 @@ I am a fourth-year undergraduate student at Nanjing University, majoring in Inte
 
 ## News
 
-- **[Sep. 2025]** SpatialVID is released on arxiv.
+- **[Feb. 2026]** SpatialVID is accepted by CVPR 2026! Check out our [project page](https://nju-3dv.github.io/projects/SpatialVID/) for more details.
 
 {% include_relative _includes/education.md %}
 
