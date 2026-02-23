@@ -1,3 +1,11 @@
+html {
+  font-size: 18px;
+}
+
+body {
+  font-size: 1rem;
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -19,6 +27,26 @@
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.6rem;
+  align-items: center;
+}
+
+.site-nav a {
+  color: #043361;
+  border: 1px solid rgba(4, 51, 97, 0.18);
+  border-radius: 0.4rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  background-color: rgba(4, 51, 97, 0.08);
+}
     /*
     .social-icons a:after {
         content: '';
@@ -53,6 +81,17 @@
         background: #a0b0ff;
       }
     */
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-nav a {
+    color: #3eb7f0;
+    border-color: rgba(62, 183, 240, 0.25);
+  }
+
+  .site-nav a:hover {
+    background-color: rgba(62, 183, 240, 0.12);
+  }
 }
 
 .icon-button{
@@ -104,7 +143,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+  font-size: 0.875rem;
     font-family: "Ubuntu Mono";
 }
 
@@ -266,7 +305,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:1.75rem;
 }
 
 a {
@@ -285,7 +324,7 @@ a:hover {
 }
 
 a small {
-  font-size:11px;
+  font-size:0.6875rem;
   color:#777;
   margin-top:-0.3em;
   display:block;
@@ -393,7 +432,7 @@ header li:last-child a {
 
 header ul a {
   line-height:1;
-  font-size:11px;
+  font-size:0.6875rem;
   color:#999;
   display:block;
   text-align:center;
@@ -426,7 +465,7 @@ header ul li + li + li {
 }
 
 header ul a strong {
-  font-size:14px;
+  font-size:0.875rem;
   display:block;
   color:#222;
 }
@@ -439,7 +478,7 @@ section {
 }
 
 small {
-  font-size:11px;
+  font-size:0.6875rem;
 }
 
 hr {
