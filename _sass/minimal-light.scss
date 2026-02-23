@@ -30,9 +30,10 @@ body {
 
 .site-nav {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem 0.6rem;
+  flex-direction: column;
+  gap: 0.4rem;
   align-items: center;
+  text-align: center;
 }
 
 .site-nav a {
