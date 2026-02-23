@@ -1,4 +1,4 @@
-<h2 id="experience" style="margin: 2px 0px 15px;">Experience</h2>
+<h2 id="experience" style="margin: 2px 0px 15px;">💼 Experience</h2>
 
 <div class="experience">
   <ol class="bibliography">

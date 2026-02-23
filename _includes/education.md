@@ -1,4 +1,4 @@
-<h2 id="education" style="margin: 2px 0px 15px;">Education</h2>
+<h2 id="education" style="margin: 2px 0px 15px;">🎓 Education</h2>
 
 <div class="education">
   <ol class="bibliography">
