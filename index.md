@@ -22,3 +22,7 @@ I am a fourth-year undergraduate student at Nanjing University, majoring in Inte
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/experience.md %}
+
+{% include_relative _includes/awards.md %}
+
+<!-- {% include_relative _includes/services.md %} -->
