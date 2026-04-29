@@ -84,7 +84,7 @@ body {
 }
 
 .nav-name {
-  font-size: 1.05rem;
+  font-size: clamp(0.95rem, 1.2vw, 1.15rem);
   font-weight: 600;
   color: var(--apple-text);
   text-decoration: none;
@@ -102,7 +102,7 @@ body {
 }
 
 .nav-links a {
-  font-size: 0.75rem;
+  font-size: clamp(0.8rem, 1vw, 0.95rem);
   color: var(--apple-text-secondary);
   text-decoration: none;
   transition: color 0.2s ease;
