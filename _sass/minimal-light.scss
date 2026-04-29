@@ -348,6 +348,46 @@ strong {
   transform: translateY(-2px);
 }
 
+/* --- Adaptive image column & text column inside pub-row --- */
+
+/* 图片列：自适应左右 padding */
+.pub-row .col-sm-3.abbr {
+  flex-shrink: 0;
+  padding-left: clamp(8px, 2vw, 20px) !important;
+  padding-right: clamp(8px, 2vw, 20px) !important;
+}
+
+/* 图片本身：自适应宽度上限 */
+.pub-row .col-sm-3.abbr img.teaser {
+  width: 100% !important;
+  max-width: clamp(80px, 20vw, 300px);
+  height: auto !important;
+  display: block;
+  object-fit: contain;
+}
+
+/* Education logo：机构徽标 */
+.education .pub-row .col-sm-3.abbr {
+  padding-left: clamp(20px, 4vw, 48px) !important;
+}
+
+.education .pub-row .col-sm-3.abbr img.teaser {
+  max-width: clamp(50px, 6vw, 80px);
+}
+
+/* Experience logo：公司 logo */
+.experience .pub-row .col-sm-3.abbr img.teaser {
+  max-width: clamp(100px, 16vw, 220px);
+}
+
+/* 文字列：自适应左右 padding */
+.pub-row .col-sm-9 {
+  flex: 1;
+  min-width: 0;
+  padding-left: clamp(12px, 3vw, 40px) !important;
+  padding-right: clamp(8px, 2vw, 20px) !important;
+}
+
 /* --- Email tag --- */
 email {
   font-size: 0.875rem;

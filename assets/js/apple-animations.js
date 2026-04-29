@@ -137,29 +137,6 @@
     });
   });
 
-  // --- Lazy Load Images ---
-  const images = document.querySelectorAll('img[src]');
-  
-  const imageObserver = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const img = entry.target;
-        img.style.opacity = '0';
-        img.style.transition = 'opacity 0.5s ease';
-        
-        img.onload = function() {
-          img.style.opacity = '1';
-        };
-        
-        observer.unobserve(img);
-      }
-    });
-  });
-
-  images.forEach(img => {
-    imageObserver.observe(img);
-  });
-
   // --- Active Navigation Link Highlighting ---
   const sections = document.querySelectorAll('h2[id]');
   const navLinks = document.querySelectorAll('.nav-links a, .nav-mobile a');

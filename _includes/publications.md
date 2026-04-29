@@ -4,11 +4,11 @@
   <ol class="bibliography">
     <li>
       <div class="pub-row">
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-          <img src="./assets/img/SpatialVID.png" class="teaser img-fluid z-depth-1" style="width:300px; height:100%;" />
+        <div class="col-sm-3 abbr" style="position: relative;">
+          <img src="./assets/img/SpatialVID.png" class="teaser img-fluid z-depth-1" />
           <abbr class="badge">CVPR 2026</abbr>
         </div>
-        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="col-sm-9" style="position: relative;">
           <div class="title">
             <a href="https://arxiv.org/abs/2509.09676.pdf" style="color: rgba(52, 99, 192, 0.92);">
               SpatialVID: A Large-Scale Video Dataset with Spatial Annotations
