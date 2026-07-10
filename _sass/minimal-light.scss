@@ -379,6 +379,18 @@ strong {
   max-width: clamp(50px, 6vw, 80px);
 }
 
+/* Experience/Education：卡片内垂直居中（文字行数少，居中更美观） */
+.experience .pub-row,
+.education .pub-row {
+  align-items: center;
+}
+.experience .pub-row .col-sm-3.abbr,
+.experience .pub-row .col-sm-9,
+.education .pub-row .col-sm-3.abbr,
+.education .pub-row .col-sm-9 {
+  align-self: center;
+}
+
 /* Experience logo：公司 logo */
 .experience .pub-row .col-sm-3.abbr img.teaser {
   max-width: clamp(100px, 16vw, 220px);
