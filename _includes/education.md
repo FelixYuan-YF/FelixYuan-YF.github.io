@@ -2,7 +2,7 @@
 
 <div class="education">
   <ol class="bibliography">
-    <!-- <div class="pub-row">
+    <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
         <img src="./assets/img/nju.png" class="teaser img-fluid z-depth-1" style="width:60px; height:100%;" alt="Nanjing University Logo" />
       </div>
@@ -19,7 +19,7 @@
         <div class="period">Master, 2026 - Present</div>
       </div>
     </div>
-    </br> -->
+    </br>
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;">
         <img src="./assets/img/nju.png" class="teaser img-fluid z-depth-1" alt="Nanjing University Logo" />
@@ -31,7 +31,7 @@
         <div class="department">
           <a href="https://is.nju.edu.cn">School of Intelligence Science and Technology</a>
         </div>
-        <div class="period">Bachelor, 2022 - Present</div>
+        <div class="period">Bachelor, 2022 - 2026</div>
       </div>
     </div>
   </ol>
