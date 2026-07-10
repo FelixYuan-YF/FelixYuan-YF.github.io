@@ -19,7 +19,6 @@
         <div class="period">Master, 2026 - Present</div>
       </div>
     </div>
-    </br>
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;">
         <img src="./assets/img/nju.png" class="teaser img-fluid z-depth-1" alt="Nanjing University Logo" />
