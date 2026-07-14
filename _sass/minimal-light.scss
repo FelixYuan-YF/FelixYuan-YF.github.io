@@ -361,6 +361,14 @@ strong {
   padding-right: clamp(8px, 2vw, 20px) !important;
 }
 
+/* Publications：作者列表变长时，图片仍相对整张卡片垂直居中 */
+@media screen and (min-width: 481px) {
+  .publications .pub-row .col-sm-3.abbr {
+    align-self: center;
+    justify-content: center;
+  }
+}
+
 /* 图片本身：自适应宽度上限 */
 .pub-row .col-sm-3.abbr img.teaser {
   width: 100% !important;
